@@ -53,7 +53,7 @@ export default function Invitacion() {
       {/* Footer decoración */}
       <div className="mb-8">
         <div className="h-[1px] w-12 bg-[var(--kpop-pink)] mx-auto mb-2" />
-        <p className="text-[8px] tracking-[0.5em] opacity-50 uppercase">No faltes a mi fiesta de cummpleaños</p>
+        <p className="text-[8px] tracking-[0.5em] opacity-50 uppercase">No faltes a mi fiesta de cumpleaños</p>
       </div>
     </main>
   );
