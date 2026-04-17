@@ -5,7 +5,7 @@ const orbitron = Orbitron({ subsets: ["latin"], variable: "--font-orbitron" });
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Sophia | The Debut Tour",
+  title: "Galilea | Mi Cumpleaños Tour",
   description: "Invitación oficial de cumpleaños",
 };
 
