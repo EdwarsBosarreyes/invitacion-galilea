@@ -1,10 +1,12 @@
 "use client";
 import Countdown from "@/components/Countdown";
+import MusicPlayer from "@/components/MusicPlayer";
 
 export default function Invitacion() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-between p-4 text-center">
       {/* Header */}
+      <MusicPlayer />
       <div className="mt-12">
         <p className="text-[var(--kpop-pink)] tracking-[0.3em] text-[10px] font-bold mb-2">WORLD TOUR: MI CUMPLEAÑOS</p>
         <h1 className="font-warrior text-5xl font-black italic text-glow-pink leading-tight">
